@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Moheen Sajjad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">MERN Stack Developer | .NET Core Developer | Frontend Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Node js**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/MoheenSajjad](https://github.com/MoheenSajjad)
+- 🚀 I’m a passionate developer with experience in **React.js, JavaScript, Node.js, Express.js, MongoDB, and .NET Core**
 
-- 💬 Ask me about **react, js, html css**
+- 🌱 I’m currently improving my skills in **Node.js, Backend Development, and Full Stack Architecture**
 
-- 📫 How to reach me **moheensajjad82@gmail.com**
+- 👨‍💻 All of my projects are available at  
+  [https://github.com/MoheenSajjad](https://github.com/MoheenSajjad)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k9Ko4x2tfdGS0AOOnzci8DxwALCCIL3j/view?usp=sharing](https://drive.google.com/file/d/1k9Ko4x2tfdGS0AOOnzci8DxwALCCIL3j/view?usp=sharing)
+- 💬 Ask me about **React.js, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, and .NET Core**
 
-- ⚡ Fun fact **I love Learning New Things**
+- 📫 How to reach me: **moheensajjad82@gmail.com**
+
+- ⚡ Fun fact: I love building clean, scalable, and user-friendly web applications
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
